@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>8051微控制器  |  Creations</title>
+	<atom:link href="https://mark-yt-lee.github.io/Creations/category/project-introduction/8051-microcontroller/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mark-yt-lee.github.io/Creations</link>
+	<description></description>
+	<lastBuildDate>Fri, 04 Oct 2024 08:28:35 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://mark-yt-lee.github.io/Creations/wp-content/uploads/2024/09/cropped-2024-09-29-18_01_08-ChatGPT-1-1-32x32.png</url>
+	<title>8051微控制器  |  Creations</title>
+	<link>https://mark-yt-lee.github.io/Creations</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>8051燈號閃爍</title>
+		<link>https://mark-yt-lee.github.io/Creations/2024/09/29/8051-microcontroller/</link>
+					<comments>https://mark-yt-lee.github.io/Creations/2024/09/29/8051-microcontroller/#respond</comments>
+		
+		<dc:creator><![CDATA[MARK]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2024 16:32:28 +0000</pubDate>
+				<category><![CDATA[8051微控制器]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=138</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://mark-yt-lee.github.io/Creations/2024/09/29/8051-microcontroller/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">138</post-id>	</item>
+	</channel>
+</rss>

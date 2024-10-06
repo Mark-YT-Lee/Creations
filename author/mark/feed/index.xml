@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>MARK  |  Creations</title>
+	<atom:link href="https://mark-yt-lee.github.io/Creations/author/mark/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mark-yt-lee.github.io/Creations</link>
+	<description></description>
+	<lastBuildDate>Fri, 04 Oct 2024 08:29:33 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://mark-yt-lee.github.io/Creations/wp-content/uploads/2024/09/cropped-2024-09-29-18_01_08-ChatGPT-1-1-32x32.png</url>
+	<title>MARK  |  Creations</title>
+	<link>https://mark-yt-lee.github.io/Creations</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>工設範例</title>
+		<link>https://mark-yt-lee.github.io/Creations/2024/09/29/ndustrial-design/</link>
+					<comments>https://mark-yt-lee.github.io/Creations/2024/09/29/ndustrial-design/#respond</comments>
+		
+		<dc:creator><![CDATA[MARK]]></dc:creator>
+		<pubDate>Sun, 29 Sep 2024 13:48:58 +0000</pubDate>
+				<category><![CDATA[工設模型]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=197</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://mark-yt-lee.github.io/Creations/2024/09/29/ndustrial-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">197</post-id>	</item>
+		<item>
+		<title>8051燈號閃爍</title>
+		<link>https://mark-yt-lee.github.io/Creations/2024/09/29/8051-microcontroller/</link>
+					<comments>https://mark-yt-lee.github.io/Creations/2024/09/29/8051-microcontroller/#respond</comments>
+		
+		<dc:creator><![CDATA[MARK]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2024 16:32:28 +0000</pubDate>
+				<category><![CDATA[8051微控制器]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=138</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://mark-yt-lee.github.io/Creations/2024/09/29/8051-microcontroller/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">138</post-id>	</item>
+		<item>
+		<title>機構概念設計</title>
+		<link>https://mark-yt-lee.github.io/Creations/2024/09/28/design/</link>
+					<comments>https://mark-yt-lee.github.io/Creations/2024/09/28/design/#respond</comments>
+		
+		<dc:creator><![CDATA[MARK]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2024 12:30:53 +0000</pubDate>
+				<category><![CDATA[機構模型]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=114</guid>
+
+					<description><![CDATA[機構概念設計涉及創建早期設計階段的基本框架，主要是為了解決特定的機械問題或實現特定的運動或功能。]]></description>
+										<content:encoded><![CDATA[<p>機構概念設計涉及創建早期設計階段的基本框架，主要是為了解決特定的機械問題或實現特定的運動或功能。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mark-yt-lee.github.io/Creations/2024/09/28/design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">114</post-id>	</item>
+		<item>
+		<title>懸臂樑的分析</title>
+		<link>https://mark-yt-lee.github.io/Creations/2024/09/28/beam/</link>
+					<comments>https://mark-yt-lee.github.io/Creations/2024/09/28/beam/#respond</comments>
+		
+		<dc:creator><![CDATA[MARK]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2024 04:26:48 +0000</pubDate>
+				<category><![CDATA[有限元素分析]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/?p=73</guid>
+
+					<description><![CDATA[&#160; &#160;]]></description>
+										<content:encoded><![CDATA[
+<p>&nbsp;</p>
+
+
+
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mark-yt-lee.github.io/Creations/2024/09/28/beam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">73</post-id>	</item>
+	</channel>
+</rss>

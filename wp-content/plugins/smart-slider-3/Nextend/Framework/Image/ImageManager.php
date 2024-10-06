@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\VisualManagerTrait&quot; not found in <b>C:\xampp\htdocs\Creations\wp-content\plugins\smart-slider-3\Nextend\Framework\Image\ImageManager.php</b> on line <b>9</b><br>

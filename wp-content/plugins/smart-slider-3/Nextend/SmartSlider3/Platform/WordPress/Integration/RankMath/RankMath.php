@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\GetAssetsPathTrait&quot; not found in <b>C:\xampp\htdocs\Creations\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Platform\WordPress\Integration\RankMath\RankMath.php</b> on line <b>13</b><br>
